@@ -24,7 +24,7 @@ int main(){
 		for(j = 0; j < size; j++)
 		printf("%3d", mas[i][j]);
 		printf("\n");
-	}
+	} 
 	
 	return 0;
 }
